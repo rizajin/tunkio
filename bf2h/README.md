@@ -28,4 +28,8 @@ This command reads the binary data from `example.bin` and creates a header file 
 This program is published as an 64bit Windows executable only for now.  
 And here are the hashes for checking the validity,  
 SHA1: de1af912d2e03b61a233aca86a63b1e8bc499b2b  
-SHA256: 53a60af0359a27637393fe4c59237e86b10c0e160500afdd2ee08e1479d4e3a2
+SHA256: 53a60af0359a27637393fe4c59237e86b10c0e160500afdd2ee08e1479d4e3a2  
+  
+All my windows programs are built using Visual Studio version 17 2022  
+And may or may not require the redist pack.  
+[Microsoft Visual C++ Redistributable for Visual Studio 2022](https://aka.ms/vs/17/release/vc_redist.x64.exe)
